@@ -15,25 +15,25 @@ A plugin for IntelliJ IDEA that embeds a Language Server Protocol server, allowi
 ### Code completion with snippet parameters
 Snippet feature is provided by [company-lsp](https://github.com/tigersoldier/company-lsp).
 
-![Code completion with snippet parameters](https://my.mixtape.moe/gkrhey.gif)
+![Code completion with snippet parameters](https://web.archive.org/web/20190326024005if_/https://track9.mixtape.moe/gkrhey.gif)
 ### Symbol usage highlighting
 Highlights read/write usage.
 
-![Symbol usage highlighting](https://sub.god.jp/f/nieypg.png)
+![Symbol usage highlighting - archived from https://sub.god.jp/f/nieypg.png](https://external-preview.redd.it/jGsnKA2LnP6pLH4o7leEP7IUbHAqwuerY1q7Qhsk3So.png?auto=webp&s=45e37b638a455b9ac33f621c34b3a42eda71985e)
 ### Find usages
-![Find usages](https://my.mixtape.moe/jptlrs.gif)
+![Find usages](https://web.archive.org/web/20190326100701if_/https://track9.mixtape.moe/jptlrs.gif)
 ### Go to definition
 Can also find super method if available.
 
-![Go to definition](https://my.mixtape.moe/kklshd.gif)
+![Go to definition](https://web.archive.org/web/20190326024003if_/https://track9.mixtape.moe/kklshd.gif)
 ### Go to implementation
-![Go to implementation](https://my.mixtape.moe/zgbddv.gif)
+![Go to implementation](https://web.archive.org/web/20190325190825if_/https://track9.mixtape.moe/zgbddv.gif)
 ### Diagnostics
 Sideline view is provided by [lsp-ui](https://github.com/emacs-lsp/lsp-ui).
 
-![Diagnostics](https://my.mixtape.moe/scoiql.gif)
+![Diagnostics](https://web.archive.org/web/20190325185511if_/https://track9.mixtape.moe/scoiql.gif)
 ### Kotlin support
-![Kotlin support](https://my.mixtape.moe/clrisu.gif)
+![Kotlin support](https://web.archive.org/web/20190326033921if_/https://track9.mixtape.moe/clrisu.gif)
 
 ## Feature list
 | Name                        | Method                            |                    | Emacs function                                         |
